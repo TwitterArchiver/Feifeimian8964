@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2078411869426213108",
+    "created_at": "2026-07-20T00:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T01:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079007069345288607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1598982417456705538",
+          "start": 0,
+          "username": "Delay1028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079007069345288607",
+    "in_reply_to_user_id": "1598982417456705538",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078411869426213108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Delay1028 中国にあればいいですね。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1258,
+        "media_key": "3_2078411862648279040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgAk8Ib0AApZs6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2078411869426213108",
+        "created_at": "2026-07-20T00:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079007069345288607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1598982417456705538",
+              "start": 0,
+              "username": "Delay1028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079007069345288607",
+        "in_reply_to_user_id": "1598982417456705538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078411869426213108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Delay1028 中国にあればいいですね。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078411862648279040"
+          ]
+        },
+        "author_id": "1598982417456705538",
+        "conversation_id": "2078411869426213108",
+        "created_at": "2026-07-18T09:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078411869426213108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SIVrsdMKHf",
+              "end": 35,
+              "expanded_url": "https://x.com/Delay1028/status/2078411869426213108/photo/1",
+              "media_key": "3_2078411862648279040",
+              "start": 12,
+              "url": "https://t.co/SIVrsdMKHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078411869426213108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 11431,
+          "like_count": 544,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "ガーーwwwwwwww https://t.co/SIVrsdMKHf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 149,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 356
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T10:08:32.000Z",
+        "description": "05 🚹 \n神聖かまってちゃん／ぺぽよ／エナドリ／サブカル系の服 \n 裏垢最果→\n@delay1028DX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "delay1028DX"
+              }
+            ]
+          }
+        },
+        "id": "1598982417456705538",
+        "name": "でぃれい",
+        "pinned_tweet_id": "2078721661021696440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066147694356340736/ljWEBsnO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 812,
+          "like_count": 61350,
+          "listed_count": 7,
+          "media_count": 991,
+          "tweet_count": 5277
+        },
+        "url": "",
+        "username": "Delay1028",
+        "verified": false
+      }
+    ]
+  }
+}

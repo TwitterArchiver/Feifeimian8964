@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2081968451028205603",
+    "created_at": "2026-07-28T05:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081968451028205603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906147263241707520",
+          "start": 3,
+          "username": "Lo_xin_ve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081968451028205603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081617876285309263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lo_xin_ve: 每天全职照顾手机 是一个机爸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2081968451028205603",
+        "created_at": "2026-07-28T05:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081968451028205603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906147263241707520",
+              "start": 3,
+              "username": "Lo_xin_ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081968451028205603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081617876285309263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lo_xin_ve: 每天全职照顾手机 是一个机爸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906147263241707520",
+        "conversation_id": "2081617876285309263",
+        "created_at": "2026-07-27T05:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081617876285309263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081617876285309263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每天全职照顾手机 是一个机爸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n小天使：@lulu72010\n小天使：@YeanyeRun\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "lulu72010"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "YeanyeRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 95,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 72,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mmm",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 200,
+          "like_count": 2054,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 721
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T00:51:45.000Z",
+        "description": "听说那个抑郁症很火我加入了",
+        "id": "1906147263241707520",
+        "name": "無法自愈的傷痛",
+        "pinned_tweet_id": "2075291433385300355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930367494797029376/PgoF2C0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 68,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "Lo_xin_ve",
+        "verified": false
+      }
+    ]
+  }
+}

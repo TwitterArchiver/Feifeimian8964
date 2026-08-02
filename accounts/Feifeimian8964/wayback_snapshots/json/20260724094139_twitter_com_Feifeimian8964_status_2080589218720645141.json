@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080519565289947136"
+      ],
+      "media_source_tweet_id": [
+        "2080519568192352607"
+      ]
+    },
+    "author_id": "2061066746203652100",
+    "conversation_id": "2080589218720645141",
+    "created_at": "2026-07-24T09:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080589218720645141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1629877998148042757",
+          "start": 3,
+          "username": "99905230523aol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8vZcZ2LQE3",
+          "end": 52,
+          "expanded_url": "https://x.com/99905230523aol/status/2080519568192352607/photo/1",
+          "media_key": "3_2080519565289947136",
+          "start": 29,
+          "url": "https://t.co/8vZcZ2LQE3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080589218720645141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080519568192352607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @99905230523aol: 药圈意识形态大赏 https://t.co/8vZcZ2LQE3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2080519565289947136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN99hYVbgAA5vJF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080519565289947136"
+          ]
+        },
+        "author_id": "1629877998148042757",
+        "conversation_id": "2080519568192352607",
+        "created_at": "2026-07-24T05:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080519568192352607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vZcZ2LQE3",
+              "end": 32,
+              "expanded_url": "https://x.com/99905230523aol/status/2080519568192352607/photo/1",
+              "media_key": "3_2080519565289947136",
+              "start": 9,
+              "url": "https://t.co/8vZcZ2LQE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080519568192352607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "药圈意识形态大赏 https://t.co/8vZcZ2LQE3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080519565289947136"
+          ],
+          "media_source_tweet_id": [
+            "2080519568192352607"
+          ]
+        },
+        "author_id": "2061066746203652100",
+        "conversation_id": "2080589218720645141",
+        "created_at": "2026-07-24T09:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080589218720645141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1629877998148042757",
+              "start": 3,
+              "username": "99905230523aol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vZcZ2LQE3",
+              "end": 52,
+              "expanded_url": "https://x.com/99905230523aol/status/2080519568192352607/photo/1",
+              "media_key": "3_2080519565289947136",
+              "start": 29,
+              "url": "https://t.co/8vZcZ2LQE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080589218720645141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080519568192352607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @99905230523aol: 药圈意识形态大赏 https://t.co/8vZcZ2LQE3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n小天使：@lulu72010\n小天使：@YeanyeRun\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "lulu72010"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "YeanyeRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 95,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 72,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 176,
+          "like_count": 1653,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T16:16:23.000Z",
+        "description": "一个激进分子，加速主义，后性别主义\n支持致幻剂合法化，大麻合法化\n/双性恋\n高功能孤独症谱系/支持神经多样性运动",
+        "id": "1629877998148042757",
+        "location": "激进主义分子",
+        "name": "无政府主义联盟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061047941188743168/OTSCZ730_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 73,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "99905230523aol",
+        "verified": false
+      }
+    ]
+  }
+}

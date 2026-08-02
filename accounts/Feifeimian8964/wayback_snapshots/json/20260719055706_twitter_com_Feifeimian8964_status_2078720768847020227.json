@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2078704492397338716",
+    "created_at": "2026-07-19T05:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078720768847020227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1785999045087125504",
+          "start": 0,
+          "username": "Tranquilnight01"
+        },
+        {
+          "end": 31,
+          "id": "1937073350750466048",
+          "start": 17,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078720768847020227",
+    "in_reply_to_user_id": "1785999045087125504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078720330613522532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tranquilnight01 @karo269640607 磕药是过量呀，滥用药物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2078704492397338716",
+        "created_at": "2026-07-19T05:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078720768847020227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1785999045087125504",
+              "start": 0,
+              "username": "Tranquilnight01"
+            },
+            {
+              "end": 31,
+              "id": "1937073350750466048",
+              "start": 17,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078720768847020227",
+        "in_reply_to_user_id": "1785999045087125504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078720330613522532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tranquilnight01 @karo269640607 磕药是过量呀，滥用药物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785999045087125504",
+        "conversation_id": "2078704492397338716",
+        "created_at": "2026-07-19T05:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078720330613522532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078720330613522532",
+        "in_reply_to_user_id": "1937073350750466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078720059120418863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 是精神类药物，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 133,
+          "like_count": 1093,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T11:45:44.000Z",
+        "description": "Materialist,pacifist and furry Following back is always welcomed",
+        "id": "1785999045087125504",
+        "location": "Antarctica",
+        "name": "赤海绛天夜夜心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010308889992949760/KRz7spy5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 2242,
+          "like_count": 7604,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 2371
+        },
+        "url": "",
+        "username": "Tranquilnight01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混邪同人女 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女 言切 衛拓 黑红 狛日拒拆逆、生化里昂右向全肯定、all昴全肯定；尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我的全家替挡灾",
+        "id": "1937073350750466048",
+        "name": "雨鈴",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 748,
+          "like_count": 40503,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 8228
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2081780258207056048",
+    "created_at": "2026-07-27T16:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T17:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081780258207056048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pr80net/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/pr80net/status/2081691567375683868",
+          "start": 9,
+          "url": "https://t.co/h9tI92peSk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081780258207056048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081691567375683868",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "o完感康见到了她 https://t.co/h9tI92peSk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2081691218694782976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOnIlZaQAADieo.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2081780258207056048",
+        "created_at": "2026-07-27T16:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081780258207056048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pr80net/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/pr80net/status/2081691567375683868",
+              "start": 9,
+              "url": "https://t.co/h9tI92peSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081780258207056048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081691567375683868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "o完感康见到了她 https://t.co/h9tI92peSk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081691218694782976"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2081691567375683868",
+        "created_at": "2026-07-27T10:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081691567375683868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zG2iQjGnxG",
+              "end": 99,
+              "expanded_url": "https://x.com/pr80net/status/2081691567375683868/photo/1",
+              "media_key": "3_2081691218694782976",
+              "start": 76,
+              "url": "https://t.co/zG2iQjGnxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081691567375683868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1776,
+          "like_count": 38,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3-抖音-感康y\n墙内欧滴圈的顶级皇帝，真正的抢手硬通货。\n“抖音人对感康的开发程度不足1%” -璐哥\n“你们抖人是不是吃屎都能致幻。” -Mercy https://t.co/zG2iQjGnxG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n小天使：@lulu72010\n小天使：@YeanyeRun\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "lulu72010"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "YeanyeRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 95,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 72,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mmm",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 196,
+          "like_count": 1987,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 692
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5UAb8\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's pr80原粉 @ZakkyV10\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "ZakkyV10"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5UAb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1RGI"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 394,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/Un7kre1RGI",
+        "username": "pr80net",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2078755591271666147",
+    "created_at": "2026-07-19T08:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T09:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078755591271666147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066715278873088000",
+          "start": 3,
+          "username": "AliceMeWu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078755591271666147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078731835862126700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AliceMeWu: 我感觉自己没朋友的最大原因是我总是期待对方是铁1v1党，我发现对方和其他朋友互动或者和我话少了我就会崩溃内耗觉得是自己哪里做错了😫然后呢，我如果真找了1v1的朋友，我自己的精力又不够，没办法支撑起对方强烈的情绪需求，最后我就逃避了，就结束一段友情😌…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2078755591271666147",
+        "created_at": "2026-07-19T08:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078755591271666147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066715278873088000",
+              "start": 3,
+              "username": "AliceMeWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078755591271666147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078731835862126700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AliceMeWu: 我感觉自己没朋友的最大原因是我总是期待对方是铁1v1党，我发现对方和其他朋友互动或者和我话少了我就会崩溃内耗觉得是自己哪里做错了😫然后呢，我如果真找了1v1的朋友，我自己的精力又不够，没办法支撑起对方强烈的情绪需求，最后我就逃避了，就结束一段友情😌…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066715278873088000",
+        "conversation_id": "2078731835862126700",
+        "created_at": "2026-07-19T06:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078731835862126700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078731835862126700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉自己没朋友的最大原因是我总是期待对方是铁1v1党，我发现对方和其他朋友互动或者和我话少了我就会崩溃内耗觉得是自己哪里做错了😫然后呢，我如果真找了1v1的朋友，我自己的精力又不够，没办法支撑起对方强烈的情绪需求，最后我就逃避了，就结束一段友情😌我好贱啊自己这样还要求别人怎样怎样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 140,
+          "like_count": 1127,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 299
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T02:52:43.000Z",
+        "description": "我的人生充满了痛苦 16⬆️OD ZC ZS 精神疾病 休学中 我是女生 这是我第4个号了 我没有什么朋友 对不起不加墙内呀 被盒过有心理阴影谢谢宝宝们理解😭想和同类互fo🥹",
+        "id": "2066715278873088000",
+        "name": "アイレス🦴",
+        "pinned_tweet_id": "2069465574938390584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071797410100379648/8bPabf67_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 177,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "AliceMeWu",
+        "verified": false
+      }
+    ]
+  }
+}

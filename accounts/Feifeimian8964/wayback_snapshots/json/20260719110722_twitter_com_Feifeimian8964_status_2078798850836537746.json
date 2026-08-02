@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078798839763599360"
+      ]
+    },
+    "author_id": "2061066746203652100",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061067573303849018",
+    "created_at": "2026-07-19T11:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078798850836537746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2025964591222820864",
+          "start": 0,
+          "username": "tang64902"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cpahcw06SD",
+          "end": 43,
+          "expanded_url": "https://x.com/Feifeimian8964/status/2078798850836537746/photo/1",
+          "media_key": "3_2078798839763599360",
+          "start": 20,
+          "url": "https://t.co/cpahcw06SD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078798850836537746",
+    "in_reply_to_user_id": "2025964591222820864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061067573303849018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang64902 这个吗，真的行嘛 https://t.co/cpahcw06SD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2078798839763599360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlgh-OagAAIIyM.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078798839763599360"
+          ]
+        },
+        "author_id": "2061066746203652100",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061067573303849018",
+        "created_at": "2026-07-19T11:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078798850836537746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2025964591222820864",
+              "start": 0,
+              "username": "tang64902"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpahcw06SD",
+              "end": 43,
+              "expanded_url": "https://x.com/Feifeimian8964/status/2078798850836537746/photo/1",
+              "media_key": "3_2078798839763599360",
+              "start": 20,
+              "url": "https://t.co/cpahcw06SD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078798850836537746",
+        "in_reply_to_user_id": "2025964591222820864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061067573303849018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang64902 这个吗，真的行嘛 https://t.co/cpahcw06SD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025964591222820864",
+        "conversation_id": "2061067573303849018",
+        "created_at": "2026-05-31T12:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061067573303849018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061067573303849018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 775,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二甲基苯乙胺怎么个说法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 143,
+          "like_count": 1169,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T16:03:53.000Z",
+        "description": "精分/💊/？？？",
+        "id": "2025964591222820864",
+        "location": "不可思议之国",
+        "name": "呼唤爱的谢幕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060950944146493440/KDMzKgZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 126,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "tang64902",
+        "verified": false
+      }
+    ]
+  }
+}

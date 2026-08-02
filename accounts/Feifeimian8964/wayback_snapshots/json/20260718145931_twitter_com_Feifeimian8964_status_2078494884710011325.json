@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2078494884710011325",
+    "created_at": "2026-07-18T14:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078494884710011325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/irosas_xyn/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/irosas_xyn/status/2078222831817789476",
+          "start": 4,
+          "url": "https://t.co/YNfDizHW4K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078494884710011325",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078222831817789476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "5-6 https://t.co/YNfDizHW4K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1192,
+        "media_key": "3_2078222821155901440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdUpRsbkAAs9hf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2078494884710011325",
+        "created_at": "2026-07-18T14:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078494884710011325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/irosas_xyn/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/irosas_xyn/status/2078222831817789476",
+              "start": 4,
+              "url": "https://t.co/YNfDizHW4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078494884710011325",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078222831817789476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5-6 https://t.co/YNfDizHW4K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078222821155901440"
+          ]
+        },
+        "author_id": "2033116026410598400",
+        "conversation_id": "2078222831817789476",
+        "created_at": "2026-07-17T20:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T21:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078222831817789476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMgSXkDFH3",
+              "end": 30,
+              "expanded_url": "https://x.com/Irosas_xyn/status/2078222831817789476/photo/1",
+              "media_key": "3_2078222821155901440",
+              "start": 7,
+              "url": "https://t.co/XMgSXkDFH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078222831817789476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "7？或许6？ https://t.co/XMgSXkDFH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 156,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF | les | 出厂年份11 | 🍥26.04.30 | 无证含糖 | 不键不O不割 | 休学ing | 182cm😭 BMI 27+😭\nサブ垢：@Irosas_sub\n无墙内联系方式\n给我私信喵 https://t.co/4Ea9D5x42k\n同类会尽量回fo\n匿名提问喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 126,
+                "expanded_url": "https://telegram.me/irosas_xyn",
+                "start": 103,
+                "url": "https://t.co/4Ea9D5x42k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/irosas_xyn",
+                "start": 0,
+                "url": "https://t.co/lPmbVtIV4t"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2078116422644109710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 142,
+          "like_count": 490,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/lPmbVtIV4t",
+        "username": "Irosas_xyn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2078499101679988997",
+    "created_at": "2026-07-18T15:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078499101679988997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/26suversider/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/26suversider/status/2078172750162571587",
+          "start": 11,
+          "url": "https://t.co/fPQlh04PQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078499101679988997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078172750162571587",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人想菲菲这样开心吗 https://t.co/fPQlh04PQm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2078499101679988997",
+        "created_at": "2026-07-18T15:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078499101679988997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/26suversider/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/26suversider/status/2078172750162571587",
+              "start": 11,
+              "url": "https://t.co/fPQlh04PQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078499101679988997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078172750162571587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人想菲菲这样开心吗 https://t.co/fPQlh04PQm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579442033483075584",
+        "conversation_id": "2078172750162571587",
+        "created_at": "2026-07-17T17:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078172750162571587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078172750162571587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1393,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好感谢这些在经济上支持我的推u，不管是打赏还是什么，每次在现实中遇到什么不开心的事情就感觉被治愈了，虽然我家里人都不需要我了但是大家还是爱我的我好开心啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 157,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活\n🚪38纯绿聊天朋友圈\n\nhttps://t.co/bRRAIqGEOS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sukieu1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/sukieu1",
+                "start": 21,
+                "url": "https://t.co/bRRAIqGEOS"
+              }
+            ]
+          }
+        },
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧",
+        "pinned_tweet_id": "2065793737977127349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069652627575414784/Z7qSci36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 133,
+          "like_count": 994,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1088
+        },
+        "url": "",
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}

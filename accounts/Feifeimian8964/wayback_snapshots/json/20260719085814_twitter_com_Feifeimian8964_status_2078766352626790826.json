@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2078484194020520208",
+    "created_at": "2026-07-19T08:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T09:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078766352626790826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2064023095191756801",
+          "start": 0,
+          "username": "mmi9xd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078766352626790826",
+    "in_reply_to_user_id": "2064023095191756801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078484194020520208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmi9xd 皓哥太幸苦了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38173,
+        "height": 720,
+        "media_key": "7_2078484143151984640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2078484143151984640/pu/img/3WR7_tAFX1cIRwsC.jpg",
+        "public_metrics": {
+          "view_count": 5062
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078484143151984640/pu/vid/avc1/360x270/lN0p0szEqeuOYeHW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078484143151984640/pu/vid/avc1/480x360/Gw7bvKbwhstks-hk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078484143151984640/pu/vid/avc1/960x720/5ttmhaHOl8cWq5Wk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2078484143151984640/pu/pl/tdTpPnSewelePXtf.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2078484194020520208",
+        "created_at": "2026-07-19T08:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078766352626790826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2064023095191756801",
+              "start": 0,
+              "username": "mmi9xd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078766352626790826",
+        "in_reply_to_user_id": "2064023095191756801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078484194020520208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmi9xd 皓哥太幸苦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2078484143151984640"
+          ]
+        },
+        "author_id": "2064023095191756801",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2078484194020520208",
+        "created_at": "2026-07-18T14:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078484194020520208"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "我的世界"
+            },
+            {
+              "end": 16,
+              "start": 6,
+              "tag": "Minecraft"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6TwXgqIDc",
+              "end": 40,
+              "expanded_url": "https://x.com/mmi9xd/status/2078484194020520208/video/1",
+              "media_key": "7_2078484143151984640",
+              "start": 17,
+              "url": "https://t.co/Y6TwXgqIDc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078484194020520208",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13722,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 91,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#我的世界 #Minecraft https://t.co/Y6TwXgqIDc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 142,
+          "like_count": 1147,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T16:35:35.000Z",
+        "description": "MC手机玩神奇宝贝⬇推荐加群🔥\n一群：189932837（Q群）⬅\n\n添加上方的QQ群⬆⬆⬆",
+        "id": "2064023095191756801",
+        "name": "我的世界皓辰",
+        "pinned_tweet_id": "2078483721880297921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078482632405667840/eb9fajFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 13,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "mmi9xd",
+        "verified": false
+      }
+    ]
+  }
+}

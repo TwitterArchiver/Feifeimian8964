@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2078482544337764824",
+    "created_at": "2026-07-18T14:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078482544337764824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1998404754188488704",
+          "start": 3,
+          "username": "Xcxy888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078482544337764824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078068350975115458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xcxy888: 别人的生活：🇭🇰🇰🇷🇯🇵🇺🇸🇦🇺🇳🇿🇫🇷🇬🇧\n我的生活：以上国家的VPN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2078482544337764824",
+        "created_at": "2026-07-18T14:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078482544337764824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1998404754188488704",
+              "start": 3,
+              "username": "Xcxy888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078482544337764824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078068350975115458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xcxy888: 别人的生活：🇭🇰🇰🇷🇯🇵🇺🇸🇦🇺🇳🇿🇫🇷🇬🇧\n我的生活：以上国家的VPN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998404754188488704",
+        "conversation_id": "2078068350975115458",
+        "created_at": "2026-07-17T10:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078068350975115458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078068350975115458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 34769,
+          "like_count": 1371,
+          "quote_count": 2,
+          "reply_count": 75,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "别人的生活：🇭🇰🇰🇷🇯🇵🇺🇸🇦🇺🇳🇿🇫🇷🇬🇧\n我的生活：以上国家的VPN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 153,
+          "like_count": 1008,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T14:50:11.000Z",
+        "description": "05个人创业者\n在 AI 中沉淀\n分享信息差 ｜不断试错中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xyYN_gg",
+                "end": 23,
+                "expanded_url": "https://t.me/xyYN_gg",
+                "start": 0,
+                "url": "https://t.co/BsoiNud3j2"
+              }
+            ]
+          }
+        },
+        "id": "1998404754188488704",
+        "name": "Xc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072254576976416768/3tny7v5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5543,
+          "following_count": 1294,
+          "like_count": 4660,
+          "listed_count": 11,
+          "media_count": 193,
+          "tweet_count": 4480
+        },
+        "url": "https://t.co/BsoiNud3j2",
+        "username": "Xcxy888",
+        "verified": true
+      }
+    ]
+  }
+}

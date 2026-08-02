@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2080127150980776339",
+    "created_at": "2026-07-23T03:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080127150980776339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042977978267951104",
+          "start": 3,
+          "username": "NoraX2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080127150980776339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 602
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079190465543594054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NoraX2026: 我刚意识到每个人的“隐私部位”是不一样的。\n妓女的下体不是隐私，她的真实社会关系（家人、同学、户口）才是。\n富人的高消费额不是隐私，经济来源才是。\n网红的个人生活不是隐私，镜头背后的商业运作和利益分配才是。\n慈善家的善举不是隐私，财富积累的过程才是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2080127150980776339",
+        "created_at": "2026-07-23T03:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080127150980776339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042977978267951104",
+              "start": 3,
+              "username": "NoraX2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080127150980776339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 602
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079190465543594054",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NoraX2026: 我刚意识到每个人的“隐私部位”是不一样的。\n妓女的下体不是隐私，她的真实社会关系（家人、同学、户口）才是。\n富人的高消费额不是隐私，经济来源才是。\n网红的个人生活不是隐私，镜头背后的商业运作和利益分配才是。\n慈善家的善举不是隐私，财富积累的过程才是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042977978267951104",
+        "conversation_id": "2079190465543594054",
+        "created_at": "2026-07-20T13:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:02:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079190165646659826",
+          "2079190465543594054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079190465543594054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1490,
+          "impression_count": 488461,
+          "like_count": 9561,
+          "quote_count": 18,
+          "reply_count": 251,
+          "retweet_count": 602
+        },
+        "reply_settings": "everyone",
+        "text": "我刚意识到每个人的“隐私部位”是不一样的。\n妓女的下体不是隐私，她的真实社会关系（家人、同学、户口）才是。\n富人的高消费额不是隐私，经济来源才是。\n网红的个人生活不是隐私，镜头背后的商业运作和利益分配才是。\n慈善家的善举不是隐私，财富积累的过程才是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n$拥护美金刚$\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 73,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 50,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2079901938645414211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 169,
+          "like_count": 1563,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 469
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T14:49:06.000Z",
+        "description": "🎓经济学 & 心理学\n🌍从美国硅谷跑回深圳AI创业\n✍️绿野资本合伙人\n💰搞钱｜AI｜信息差｜写段子\n微信：yyqxtiki",
+        "id": "2042977978267951104",
+        "location": "深圳",
+        "name": "Nora X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078140848114720768/hMPWC08N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13592,
+          "following_count": 226,
+          "like_count": 11800,
+          "listed_count": 44,
+          "media_count": 871,
+          "tweet_count": 7704
+        },
+        "url": "",
+        "username": "NoraX2026",
+        "verified": true
+      }
+    ]
+  }
+}

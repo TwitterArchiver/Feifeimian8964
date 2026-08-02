@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2079841181022994886",
+    "created_at": "2026-07-22T14:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079938360920142079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903104521624227841",
+          "start": 0,
+          "username": "PhonSng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079938360920142079",
+    "in_reply_to_user_id": "1903104521624227841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079924115318976597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhonSng 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2079841181022994886",
+        "created_at": "2026-07-22T14:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079938360920142079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903104521624227841",
+              "start": 0,
+              "username": "PhonSng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079938360920142079",
+        "in_reply_to_user_id": "1903104521624227841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079924115318976597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhonSng 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903104521624227841",
+        "conversation_id": "2079841181022994886",
+        "created_at": "2026-07-22T13:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079924115318976597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061066746203652100",
+              "start": 0,
+              "username": "Feifeimian8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079924115318976597",
+        "in_reply_to_user_id": "2061066746203652100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079841181022994886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Feifeimian8964 这毒区魔了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2079901938645414211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 166,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:21:08.000Z",
+        "description": "LGBTQIA+友好/泛性恋-友跨🏳️‍⚧️/INTP-T/小楠孩/生产日期：12.10/pr80重度依赖/不见证/欢迎来找我交朋友互fo/可以叫我橘猫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orangecatt2",
+                "end": 23,
+                "expanded_url": "http://t.me/orangecatt2",
+                "start": 0,
+                "url": "https://t.co/dLdtYJCxDO"
+              }
+            ]
+          }
+        },
+        "id": "1903104521624227841",
+        "location": "南极企鹅窟",
+        "name": "caTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079859136549023744/8fpTbvnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 229,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/dLdtYJCxDO",
+        "username": "PhonSng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2078694718364664319",
+    "created_at": "2026-07-19T05:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078719491513659673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886641021588611072",
+          "start": 0,
+          "username": "Gyoko404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078719491513659673",
+    "in_reply_to_user_id": "886641021588611072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078694718364664319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gyoko404 晚安😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2078694718364664319",
+        "created_at": "2026-07-19T05:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078719491513659673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886641021588611072",
+              "start": 0,
+              "username": "Gyoko404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078719491513659673",
+        "in_reply_to_user_id": "886641021588611072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078694718364664319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gyoko404 晚安😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886641021588611072",
+        "conversation_id": "2078694718364664319",
+        "created_at": "2026-07-19T04:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078694718364664319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078694718364664319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我知道又会有一堆骂我假死，骂就骂吧，反正我都是死人了。\n还有再讲讲我为什么要自杀吧，因为某人对我冷淡爱搭不理，加gd严重，所以我才做出这个决定。\n我变成药娘的经历：7岁开始女装，10岁gd严重，12岁了解到，16岁正式开始hrt并留头发，然后我又进精卫被强制剪头发，还被晶好多回，心累，到最近我又染上烟瘾和od，现在连药都吃不起，要不是有人给我钱我都吃不起饭了。\n如果我还能活，我希望我能做上手术，变成一个新的身份开始新的生活，而不是像现在这样浑浑噩噩的（虽然不太可能变好吧）。\n最后我再嘱咐几句，忆白，你差不多就分了吧，你对象都出轨那么明显了。丫丫，你也好好的，别老是自残，我会心疼的。晨曦你什么时候回来啊，大家都想你了…\n话都说完了，我再睡一觉就走了，再见大家，下辈子见咯"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 319,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道又会有一堆骂我假死，骂就骂吧，反正我都是死人了。\n还有再讲讲我为什么要自杀吧，因为某人对我冷淡爱搭不理，加gd严重，所以我才做出这个决定。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 131,
+          "like_count": 1085,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-16T17:37:47.000Z",
+        "description": "爱惜自己真的好难",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahiro.xin",
+                "end": 23,
+                "expanded_url": "http://mahiro.xin",
+                "start": 0,
+                "url": "https://t.co/vttA1wvKNo"
+              }
+            ]
+          }
+        },
+        "id": "886641021588611072",
+        "name": "暁光🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071580598192476389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078696403342409729/Pp_L56zY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 77,
+          "like_count": 187,
+          "listed_count": 23,
+          "media_count": 38,
+          "tweet_count": 1316
+        },
+        "url": "https://t.co/vttA1wvKNo",
+        "username": "Gyoko404",
+        "verified": true
+      }
+    ]
+  }
+}

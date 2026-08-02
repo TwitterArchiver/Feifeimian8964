@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079901832550498304",
+        "3_2079901832546230272"
+      ]
+    },
+    "author_id": "2061066746203652100",
+    "conversation_id": "2079901938645414211",
+    "created_at": "2026-07-22T12:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079901938645414211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x5RN9lqqlW",
+          "end": 63,
+          "expanded_url": "https://x.com/Feifeimian8964/status/2079901938645414211/photo/1",
+          "media_key": "3_2079901832550498304",
+          "start": 40,
+          "url": "https://t.co/x5RN9lqqlW"
+        },
+        {
+          "display_url": "pic.x.com/x5RN9lqqlW",
+          "end": 63,
+          "expanded_url": "https://x.com/Feifeimian8964/status/2079901938645414211/photo/1",
+          "media_key": "3_2079901832546230272",
+          "start": 40,
+          "url": "https://t.co/x5RN9lqqlW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079901938645414211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "菲菲-\n认识我：tg频道-QQ\n欢迎资助菲菲(´▽｀)\n$一起加入美金刚教吧$ https://t.co/x5RN9lqqlW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079901832550498304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1LsmjbQAAgepS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2079901832546230272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1LsmiaIAA5lAA.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079901832550498304",
+            "3_2079901832546230272"
+          ]
+        },
+        "author_id": "2061066746203652100",
+        "conversation_id": "2079901938645414211",
+        "created_at": "2026-07-22T12:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079901938645414211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x5RN9lqqlW",
+              "end": 63,
+              "expanded_url": "https://x.com/Feifeimian8964/status/2079901938645414211/photo/1",
+              "media_key": "3_2079901832550498304",
+              "start": 40,
+              "url": "https://t.co/x5RN9lqqlW"
+            },
+            {
+              "display_url": "pic.x.com/x5RN9lqqlW",
+              "end": 63,
+              "expanded_url": "https://x.com/Feifeimian8964/status/2079901938645414211/photo/1",
+              "media_key": "3_2079901832546230272",
+              "start": 40,
+              "url": "https://t.co/x5RN9lqqlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079901938645414211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "菲菲-\n认识我：tg频道-QQ\n欢迎资助菲菲(´▽｀)\n$一起加入美金刚教吧$ https://t.co/x5RN9lqqlW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 166,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 438
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      }
+    ]
+  }
+}

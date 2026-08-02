@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2046069225186558094",
+    "created_at": "2026-07-28T16:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082140345299775944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889296373536759809",
+          "start": 0,
+          "username": "Controld_puplov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082140345299775944",
+    "in_reply_to_user_id": "1889296373536759809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046069225186558094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Controld_puplov 有减肥药呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2046069225186558094",
+        "created_at": "2026-07-28T16:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082140345299775944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889296373536759809",
+              "start": 0,
+              "username": "Controld_puplov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082140345299775944",
+        "in_reply_to_user_id": "1889296373536759809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046069225186558094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Controld_puplov 有减肥药呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889296373536759809",
+        "conversation_id": "2046069225186558094",
+        "created_at": "2026-04-20T03:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046069225186558094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046069225186558094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od是不是可以减肥呀 我准备试一下 连续o两周如果效果好的话我将用od来减肥！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n小天使：@lulu72010\n小天使：@YeanyeRun\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "lulu72010"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "YeanyeRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 95,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 72,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mmm",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 198,
+          "like_count": 2074,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 736
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T12:52:46.000Z",
+        "description": "人要是那麼脆弱那該怎麼活著呢",
+        "id": "1889296373536759809",
+        "name": "Vivian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052205843618377728/RkrZDWKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 47,
+          "like_count": 901,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "Controld_puplov",
+        "verified": false
+      }
+    ]
+  }
+}

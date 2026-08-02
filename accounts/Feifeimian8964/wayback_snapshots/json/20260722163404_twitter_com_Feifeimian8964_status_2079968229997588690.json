@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2079566161424077286",
+    "created_at": "2026-07-22T16:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079968229997588690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2050273731948228608",
+          "start": 0,
+          "username": "yyybzdygm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079968229997588690",
+    "in_reply_to_user_id": "2061066746203652100",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079968049227280771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyybzdygm 但是再打肥皂洗手之前我不能接受我手碰到我的任何东西包括衣服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2079566161424077286",
+        "created_at": "2026-07-22T16:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079968229997588690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2050273731948228608",
+              "start": 0,
+              "username": "yyybzdygm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079968229997588690",
+        "in_reply_to_user_id": "2061066746203652100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079968049227280771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyybzdygm 但是再打肥皂洗手之前我不能接受我手碰到我的任何东西包括衣服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2079566161424077286",
+        "created_at": "2026-07-22T16:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079968049227280771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2050273731948228608",
+              "start": 0,
+              "username": "yyybzdygm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079968049227280771",
+        "in_reply_to_user_id": "2050273731948228608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079566161424077286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyybzdygm 它们有的不怕人，我会摸摸它们的头呀，软软的好可爱🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n$拥护美金刚$\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 73,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 50,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2079901938645414211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 165,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T17:59:54.000Z",
+        "description": "别跟我玩",
+        "id": "2050273731948228608",
+        "location": "M78 好友位纯绿88非打钱勿扰 骚扰我的死全家",
+        "name": "因因因",
+        "pinned_tweet_id": "2071141253958287673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050274996899958784/I_7vwEGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5292,
+          "following_count": 1,
+          "like_count": 119,
+          "listed_count": 8,
+          "media_count": 58,
+          "tweet_count": 429
+        },
+        "url": "",
+        "username": "yyybzdygm",
+        "verified": false
+      }
+    ]
+  }
+}

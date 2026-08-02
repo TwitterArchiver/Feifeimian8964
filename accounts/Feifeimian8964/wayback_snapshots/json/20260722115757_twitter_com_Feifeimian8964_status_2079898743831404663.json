@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2079377115187921122",
+    "created_at": "2026-07-22T11:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T12:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079898743831404663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800072059214598144",
+          "start": 0,
+          "username": "bnli270777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079898743831404663",
+    "in_reply_to_user_id": "1800072059214598144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079377115187921122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bnli270777 血腥+可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2079377115187921122",
+        "created_at": "2026-07-22T11:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079898743831404663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800072059214598144",
+              "start": 0,
+              "username": "bnli270777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079898743831404663",
+        "in_reply_to_user_id": "1800072059214598144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079377115187921122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnli270777 血腥+可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800072059214598144",
+        "conversation_id": "2079377115187921122",
+        "created_at": "2026-07-21T01:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079377115187921122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bnli270777/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/bnli270777/status/2078793437512626524",
+              "start": 16,
+              "url": "https://t.co/aiJUkWYo7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079377115187921122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3847,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078793437512626524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦不 我需要一个非常客观的选择 https://t.co/aiJUkWYo7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 165,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 436
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T07:47:09.000Z",
+        "description": "God Dammit//🇨🇳 🇺🇸 🇲🇲通用                    \n                     10后            \n                                                                 外语回复都是翻译器",
+        "id": "1800072059214598144",
+        "location": "Kowloon City District",
+        "name": "U-M",
+        "pinned_tweet_id": "2053865036775579942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017680406246834176/QRkjw3E-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2597,
+          "following_count": 53,
+          "like_count": 2205,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "bnli270777",
+        "verified": false
+      }
+    ]
+  }
+}

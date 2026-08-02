@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2079949681522794834",
+    "created_at": "2026-07-22T16:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079967310190960863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1961080629468028928",
+          "start": 0,
+          "username": "qikieye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079967310190960863",
+    "in_reply_to_user_id": "1961080629468028928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079949681522794834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qikieye pr配西柚汁没用吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2079949681522794834",
+        "created_at": "2026-07-22T16:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079967310190960863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1961080629468028928",
+              "start": 0,
+              "username": "qikieye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079967310190960863",
+        "in_reply_to_user_id": "1961080629468028928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079949681522794834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qikieye pr配西柚汁没用吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961080629468028928",
+        "conversation_id": "2079949681522794834",
+        "created_at": "2026-07-22T15:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079949681522794834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079949681522794834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为pr80（没有dxm的情况下）最舒服的玩法是：\n\n600-900mg pr80\n20mg巴氯芬\n一瓶水溶c西柚\n0.5mg劳拉\ncos尼古喵喵\n（酌情摄入乙醇）\n\n操作有风险，仅供参考，呼吸抑制较强，请勿模仿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n$拥护美金刚$\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 73,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 50,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2079901938645414211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 165,
+          "like_count": 1532,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 450
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T14:57:28.000Z",
+        "description": "Elysium, a life of ultimate bliss",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "http://jile.bid",
+                "start": 0,
+                "url": "https://t.co/bxJD99X3Ph"
+              }
+            ]
+          }
+        },
+        "id": "1961080629468028928",
+        "name": "qiki💊（rebirth）",
+        "pinned_tweet_id": "2079473247876440551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079631971156901888/VWis0ku3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 290,
+          "like_count": 265,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/bxJD99X3Ph",
+        "username": "qikieye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2080844931334369305",
+    "created_at": "2026-07-25T06:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080897175744299139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2076657270784729088",
+          "start": 0,
+          "username": "Luoyupr80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080897175744299139",
+    "in_reply_to_user_id": "2076657270784729088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080844931334369305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luoyupr80 你不要走…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2080844931334369305",
+        "created_at": "2026-07-25T06:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080897175744299139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2076657270784729088",
+              "start": 0,
+              "username": "Luoyupr80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080897175744299139",
+        "in_reply_to_user_id": "2076657270784729088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080844931334369305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luoyupr80 你不要走…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076657270784729088",
+        "conversation_id": "2080844931334369305",
+        "created_at": "2026-07-25T02:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080844931334369305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080844931334369305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們怎麼了……怎麼都自殺了……剩下我一個……我不知道該怎麼辦……不要走……求求了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n小天使：@lulu72010\n小天使：@YeanyeRun\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "lulu72010"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "YeanyeRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 95,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 72,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mmm",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 193,
+          "like_count": 1814,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T13:19:28.000Z",
+        "description": "MTX｜14岁 |2025.01.24含糖| 家暴党｜会磕药 ｜已扭转|已精卫|是个双相|互fo哦｜四代目|挂学籍初三｜诡秘？@Amikoirr｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Amikoirr"
+              }
+            ]
+          }
+        },
+        "id": "2076657270784729088",
+        "location": "普瑞巴林星球",
+        "name": "洛雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2076687503948726343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076854148449067008/Bj7osS-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 72,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "Luoyupr80",
+        "verified": false
+      }
+    ]
+  }
+}

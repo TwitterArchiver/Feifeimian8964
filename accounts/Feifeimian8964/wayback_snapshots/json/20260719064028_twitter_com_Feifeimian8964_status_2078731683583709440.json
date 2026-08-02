@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2078477957123977350",
+    "created_at": "2026-07-19T06:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078731683583709440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2057055984338833408",
+          "start": 0,
+          "username": "Yuramyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078731683583709440",
+    "in_reply_to_user_id": "2057055984338833408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078477957123977350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuramyn 你到底有没有脑子能不能分清包涵关系，讨厌的一般都长这样，但长这样的不一定讨人厌，弱智能不能别上网了，你这种本质上也是个嘉欣，自己长这样的话发声情有可原，自己不长这样你也是个贱逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1218,
+        "media_key": "3_2078477950174056449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg8rvWbUAEF3-X.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2078477957123977350",
+        "created_at": "2026-07-19T06:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078731683583709440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2057055984338833408",
+              "start": 0,
+              "username": "Yuramyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078731683583709440",
+        "in_reply_to_user_id": "2057055984338833408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078477957123977350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuramyn 你到底有没有脑子能不能分清包涵关系，讨厌的一般都长这样，但长这样的不一定讨人厌，弱智能不能别上网了，你这种本质上也是个嘉欣，自己长这样的话发声情有可原，自己不长这样你也是个贱逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078477950174056449"
+          ]
+        },
+        "author_id": "2057055984338833408",
+        "conversation_id": "2078477957123977350",
+        "created_at": "2026-07-18T13:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078477957123977350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6TRix0x0x",
+              "end": 149,
+              "expanded_url": "https://x.com/Yuramyn/status/2078477957123977350/photo/1",
+              "media_key": "3_2078477950174056449",
+              "start": 126,
+              "url": "https://t.co/T6TRix0x0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078477957123977350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 96062,
+          "like_count": 1015,
+          "quote_count": 5,
+          "reply_count": 276,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "很可爱的一张脸，说别人是经典长相的是什么？经典没礼貌？经典没素质？经典没情商？经典没家教？经典嘉豪？经典地下鼠？明明圆脸眼镜女孩子在每个人的生活里到处都在，怎么是没读过书不知道怎么尊重别人吗？你们就是上学那会喜欢给别人起外号的那群贱货吧，长大了更贱了 https://t.co/T6TRix0x0x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 134,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T11:11:44.000Z",
+        "description": "一条忧郁鱼，《没门》，不接广\n\n@yangyangg358 小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "yangyangg358"
+              }
+            ]
+          }
+        },
+        "id": "2057055984338833408",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "2070905905236090907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058189035542372352/6mVkFU1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 8,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "Yuramyn",
+        "verified": true
+      }
+    ]
+  }
+}

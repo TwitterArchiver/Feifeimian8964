@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2080271052165492936",
+    "created_at": "2026-07-23T12:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080271052165492936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2078119852003508224",
+          "start": 3,
+          "username": "KitsuMio79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080271052165492936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080173470969950617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KitsuMio79: 我艹啊你们这群跨÷别亖啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2080271052165492936",
+        "created_at": "2026-07-23T12:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080271052165492936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2078119852003508224",
+              "start": 3,
+              "username": "KitsuMio79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080271052165492936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080173470969950617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KitsuMio79: 我艹啊你们这群跨÷别亖啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078119852003508224",
+        "conversation_id": "2080173470969950617",
+        "created_at": "2026-07-23T06:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080173470969950617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080173470969950617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我艹啊你们这群跨÷别亖啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n小天使：@lulu72010\n小天使：@YeanyeRun\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "lulu72010"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "YeanyeRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 95,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 72,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 176,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 501
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-17T14:12:36.000Z",
+        "description": "ASD | ADHD | BPD | DID | 焦虑型依恋/强融合与极端排他恋爱观 | 发一些碎碎念 | 主账号是 @KitsuMio7 | 风格明显变化+失忆就是DID犯了，自己可能感觉不到，会很频繁 | 解离屏障严重 | 我们都可以是澪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "KitsuMio7"
+              }
+            ]
+          }
+        },
+        "id": "2078119852003508224",
+        "name": "橘川系统 - 主导子系统澪🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078121568363028480/5YEaQA_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 145,
+          "like_count": 162,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "KitsuMio79",
+        "verified": false
+      }
+    ]
+  }
+}

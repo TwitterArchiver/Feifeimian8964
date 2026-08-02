@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2079893600587092176",
+    "created_at": "2026-07-22T15:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079945797618348281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1990455987552256000",
+          "start": 0,
+          "username": "yikuqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079945797618348281",
+    "in_reply_to_user_id": "1990455987552256000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079895203994050884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yikuqwq 多少钱呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2079893600587092176",
+        "created_at": "2026-07-22T15:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079945797618348281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1990455987552256000",
+              "start": 0,
+              "username": "yikuqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079945797618348281",
+        "in_reply_to_user_id": "1990455987552256000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079895203994050884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yikuqwq 多少钱呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990455987552256000",
+        "conversation_id": "2079893600587092176",
+        "created_at": "2026-07-22T11:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079895203994050884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079895203994050884",
+        "in_reply_to_user_id": "1990455987552256000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079893600587092176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "10g罐了100多t，吃了50t左右，感觉和吃pr没什么区别，爽爽的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n$拥护美金刚$\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 73,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 50,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2079901938645414211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 166,
+          "like_count": 1508,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T16:24:34.000Z",
+        "description": "能不能也对我留点爱？",
+        "id": "1990455987552256000",
+        "name": "世界消失之后",
+        "pinned_tweet_id": "2067643251918778426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079733822158217217/qlvE1P7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 323,
+          "like_count": 3653,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "yikuqwq",
+        "verified": false
+      }
+    ]
+  }
+}

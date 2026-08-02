@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2080898036730040802",
+    "created_at": "2026-07-25T06:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080898036730040802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/slearthly/stat…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/slearthly/status/2080874399520129174",
+          "start": 87,
+          "url": "https://t.co/zppzdbF0US"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080898036730040802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080874399520129174",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们这群几把地雷女 又有钱买药吃 又有游戏机 电脑玩 每天不用上班上学的 想吃什么外卖点什么 想去哪里旅游就去哪里旅游 我不知道你们一天在网上到底在崩溃什么几把 在痛苦什么 https://t.co/zppzdbF0US"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2080898036730040802",
+        "created_at": "2026-07-25T06:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080898036730040802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/slearthly/stat…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/slearthly/status/2080874399520129174",
+              "start": 87,
+              "url": "https://t.co/zppzdbF0US"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080898036730040802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080874399520129174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们这群几把地雷女 又有钱买药吃 又有游戏机 电脑玩 每天不用上班上学的 想吃什么外卖点什么 想去哪里旅游就去哪里旅游 我不知道你们一天在网上到底在崩溃什么几把 在痛苦什么 https://t.co/zppzdbF0US"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078716467781013504",
+        "conversation_id": "2080874399520129174",
+        "created_at": "2026-07-25T04:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080874399520129174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mercyvxv/statu…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/Mercyvxv/status/2080869950563193143",
+              "start": 87,
+              "url": "https://t.co/XO1KyVn6lH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080874399520129174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080869950563193143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们这群几把地雷女 又有钱买药吃 又有游戏机 电脑玩 每天不用上班上学的 想吃什么外卖点什么 想去哪里旅游就去哪里旅游 我不知道你们一天在网上到底在崩溃什么几把 在痛苦什么 https://t.co/XO1KyVn6lH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n小天使：@lulu72010\n小天使：@YeanyeRun\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "lulu72010"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "YeanyeRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 95,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 72,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mmm",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 193,
+          "like_count": 1818,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-19T05:54:53.000Z",
+        "description": "招代理/追求平价糖果拒绝恶意抬价（\n雌/孕/抗雄/减肥药代理/美白/pr金刚🌽\n09年无证/🍥25.11.16/od妹/双向/坐标广东/高二/jumpstyle爱好者/亚文化/中二病患者/眼罩人助力/性格阴暗内向/可互fo  可以叫咱雾川岛/小雾/买糖私信ovo/没回就是在睡觉",
+        "id": "2078716467781013504",
+        "name": "sly雾川岛🍥糖商",
+        "pinned_tweet_id": "2080591537529032875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080318978329821184/K5JkgEim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 168,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "slearthly",
+        "verified": false
+      }
+    ]
+  }
+}

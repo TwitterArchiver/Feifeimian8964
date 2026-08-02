@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2078220908129591633",
+    "created_at": "2026-07-18T08:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078398704575475823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065922617496809472",
+          "start": 0,
+          "username": "xoxomuuahh"
+        },
+        {
+          "end": 23,
+          "id": "1948365930108731392",
+          "start": 12,
+          "username": "i_yyo65026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078398704575475823",
+    "in_reply_to_user_id": "2065922617496809472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078328194957250886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xoxomuuahh @i_yyo65026 你也是个傻逼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2078220908129591633",
+        "created_at": "2026-07-18T08:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078398704575475823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065922617496809472",
+              "start": 0,
+              "username": "xoxomuuahh"
+            },
+            {
+              "end": 23,
+              "id": "1948365930108731392",
+              "start": 12,
+              "username": "i_yyo65026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078398704575475823",
+        "in_reply_to_user_id": "2065922617496809472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078328194957250886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xoxomuuahh @i_yyo65026 你也是个傻逼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065922617496809472",
+        "conversation_id": "2078220908129591633",
+        "created_at": "2026-07-18T03:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078328194957250886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948365930108731392",
+              "start": 0,
+              "username": "i_yyo65026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078328194957250886",
+        "in_reply_to_user_id": "1948365930108731392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1283,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078220908129591633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i_yyo65026 两边都是傻b，一个满脑子屌一个满脑子红色废料。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 152,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T22:27:23.000Z",
+        "description": "mwah💋.\n平等的溺爱每个青年音和天蝎男",
+        "id": "2065922617496809472",
+        "name": "说谢谢了吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065926493499191297/3IinB01B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 66,
+          "like_count": 2917,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "xoxomuuahh",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-24T12:53:43.000Z",
+        "description": "只喜欢覆面肌肉男和帅的 脾气不好 不线下哦 随便发着玩的 私信看见了会回（没礼貌的不回 ）不加联系方式 所以没🚪 不接任何定制视频我想拍啥就看啥",
+        "id": "1948365930108731392",
+        "name": "Pradwa",
+        "pinned_tweet_id": "2075973442885837153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075321687369986048/5clHWDmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4737,
+          "following_count": 43,
+          "like_count": 1057,
+          "listed_count": 15,
+          "media_count": 53,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "i_yyo65026",
+        "verified": false
+      }
+    ]
+  }
+}
