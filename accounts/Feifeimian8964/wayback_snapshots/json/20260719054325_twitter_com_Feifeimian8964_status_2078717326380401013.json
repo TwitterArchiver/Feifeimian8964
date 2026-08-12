@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2078550017821053227",
+    "created_at": "2026-07-19T05:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078717326380401013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061094732215062529",
+          "start": 0,
+          "username": "Impara07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078717326380401013",
+    "in_reply_to_user_id": "2061094732215062529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078550017821053227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Impara07 都很美啊呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1835,
+        "media_key": "3_2078549990553919489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNh-NCrboAEQ7aD.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078549990541316096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNh-NCobUAAuhCw.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2078550017821053227",
+        "created_at": "2026-07-19T05:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078717326380401013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061094732215062529",
+              "start": 0,
+              "username": "Impara07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078717326380401013",
+        "in_reply_to_user_id": "2061094732215062529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078550017821053227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Impara07 都很美啊呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078549990553919489",
+            "3_2078549990541316096"
+          ]
+        },
+        "author_id": "2061094732215062529",
+        "conversation_id": "2078550017821053227",
+        "created_at": "2026-07-18T18:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078550017821053227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xszRAz9WKc",
+              "end": 37,
+              "expanded_url": "https://x.com/Impara07/status/2078550017821053227/photo/1",
+              "media_key": "3_2078549990553919489",
+              "start": 14,
+              "url": "https://t.co/xszRAz9WKc"
+            },
+            {
+              "display_url": "pic.x.com/xszRAz9WKc",
+              "end": 37,
+              "expanded_url": "https://x.com/Impara07/status/2078550017821053227/photo/1",
+              "media_key": "3_2078549990541316096",
+              "start": 14,
+              "url": "https://t.co/xszRAz9WKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078550017821053227",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 818,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2022⬅️ ➡️2026 https://t.co/xszRAz9WKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 131,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T14:37:59.000Z",
+        "description": "｜此账号含有药物滥用/骂人爆粗口/血腥暴力的纹身 绘画作品/我的8只猫8只老鼠/和老公秀恩爱｜Tattoo consultation纹身咨询Wechat：Hani_el03😽👏🏻｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/im8ra023_?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/im8ra023_?igsh=NGxpeHljcXNreWQz&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/WuUwAbLCzP"
+              }
+            ]
+          }
+        },
+        "id": "2061094732215062529",
+        "location": "雏见泽",
+        "name": "早インパラ",
+        "pinned_tweet_id": "2064355278972432818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067170846343639040/eDSD-nNn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 30,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/WuUwAbLCzP",
+        "username": "Impara07",
+        "verified": false
+      }
+    ]
+  }
+}

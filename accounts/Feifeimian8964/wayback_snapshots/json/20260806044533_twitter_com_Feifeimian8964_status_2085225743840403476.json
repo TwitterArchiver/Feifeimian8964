@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2085060830463479907",
+    "created_at": "2026-08-06T04:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085225743840403476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1722904163476979712",
+          "start": 0,
+          "username": "tom415362445683"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085225743840403476",
+    "in_reply_to_user_id": "1722904163476979712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085060830463479907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tom415362445683 同名"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2085060830463479907",
+        "created_at": "2026-08-06T04:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085225743840403476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1722904163476979712",
+              "start": 0,
+              "username": "tom415362445683"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085225743840403476",
+        "in_reply_to_user_id": "1722904163476979712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085060830463479907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tom415362445683 同名"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722904163476979712",
+        "conversation_id": "2085060830463479907",
+        "created_at": "2026-08-05T17:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085060830463479907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085060830463479907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底怎么从推特账号能扒出来墙内的账号的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mmm",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 200,
+          "like_count": 2303,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 872
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T09:09:27.000Z",
+        "description": "天空的湛藍要怎樣才能傳達",
+        "id": "1722904163476979712",
+        "location": "你家床底下",
+        "name": "もペもペ",
+        "pinned_tweet_id": "2025596071217656109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051340340049965056/5L_eG8J9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 92,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "tom415362445683",
+        "verified": false
+      }
+    ]
+  }
+}

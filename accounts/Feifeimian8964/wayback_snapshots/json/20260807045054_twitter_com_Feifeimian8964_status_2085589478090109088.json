@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2085519918058099127",
+    "created_at": "2026-08-07T04:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085589478090109088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1989742696077168645",
+          "start": 0,
+          "username": "angel5554838581"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085589478090109088",
+    "in_reply_to_user_id": "1989742696077168645",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085519918058099127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angel5554838581 不要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085519909405274112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPFBTtwbMAAcf7s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2085519918058099127",
+        "created_at": "2026-08-07T04:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085589478090109088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1989742696077168645",
+              "start": 0,
+              "username": "angel5554838581"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085589478090109088",
+        "in_reply_to_user_id": "1989742696077168645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085519918058099127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angel5554838581 不要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085519909405274112"
+          ]
+        },
+        "author_id": "1989742696077168645",
+        "conversation_id": "2085519918058099127",
+        "created_at": "2026-08-07T00:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T01:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085519918058099127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IE1XFFw4vp",
+              "end": 26,
+              "expanded_url": "https://x.com/angel5554838581/status/2085519918058099127/photo/1",
+              "media_key": "3_2085519909405274112",
+              "start": 3,
+              "url": "https://t.co/IE1XFFw4vp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085519918058099127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1034,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再见 https://t.co/IE1XFFw4vp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mmm",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 0,
+          "like_count": 2360,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 887
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T17:10:13.000Z",
+        "description": "每天都很懵逼",
+        "id": "1989742696077168645",
+        "location": "Tokyo-to, Japan",
+        "name": "angel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989968123639013377/_RFJ8qJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 39,
+          "like_count": 316,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 325
+        },
+        "url": "",
+        "username": "angel5554838581",
+        "verified": false
+      }
+    ]
+  }
+}

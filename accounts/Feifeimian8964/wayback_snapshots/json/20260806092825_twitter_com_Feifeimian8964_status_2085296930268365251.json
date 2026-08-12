@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061066746203652100",
+    "conversation_id": "2085296930268365251",
+    "created_at": "2026-08-06T09:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T10:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085296930268365251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1801209423182073857",
+          "start": 3,
+          "username": "zhihuanji6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085296930268365251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085179597902184617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhihuanji6: 普瑞巴林在一天之内治好了我的双相情感障碍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2085296930268365251",
+        "created_at": "2026-08-06T09:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085296930268365251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1801209423182073857",
+              "start": 3,
+              "username": "zhihuanji6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085296930268365251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085179597902184617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhihuanji6: 普瑞巴林在一天之内治好了我的双相情感障碍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801209423182073857",
+        "conversation_id": "2085179597902184617",
+        "created_at": "2026-08-06T01:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T02:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085179597902184617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085179597902184617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林在一天之内治好了我的双相情感障碍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mmm",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 202,
+          "like_count": 2355,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 884
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T11:06:24.000Z",
+        "description": "个人废话号丨he/they丨oder丨友跨",
+        "id": "1801209423182073857",
+        "location": "距您0.1km",
+        "name": "致幻剂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085196391899672576/-TpN1Ap__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 40,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "zhihuanji6",
+        "verified": false
+      }
+    ]
+  }
+}
